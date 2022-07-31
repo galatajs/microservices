@@ -1,0 +1,12 @@
+{
+  "name": "@istanbul/microservice",
+  "version": "0.0.1",
+  "description": "Microservice Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "microservices"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
